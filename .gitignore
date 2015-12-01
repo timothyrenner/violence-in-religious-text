@@ -1,0 +1,17 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+/images
+Rplots.pdf
+resources/*.txt
+resources/en-sent.bin
+.zedstate
+.gorilla-port
