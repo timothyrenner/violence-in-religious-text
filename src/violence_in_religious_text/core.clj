@@ -75,8 +75,8 @@
 (defn gorilla-to-markdown 
   "Converts the notebook string nb into a Markdown string."
   [nb]
-  (let [cell-splitter #";; (@@|\*\*|<-|->|<=|=>)"]
-                   ;; Split on lines.
+  (let [cell-splitter #"^;; (@@|\*\*|<-|->|<=|=>)"]
+         ;; Split on lines.
     (->> (str/split-lines nb)
          ;; Drop first comment about gorilla version.
          rest
