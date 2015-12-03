@@ -1,8 +1,8 @@
 (defproject violence-in-religious-text "0.1.0"
   :description "A notebook analyzing violence in religious texts."
   :url "https://timothyrenner.github.io"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :license {:name "MIT License"
+            :url "https://github.com/timothyrenner/violence-in-religious-text/blob/master/LICENSE"}
   :dependencies [[org.clojure/clojure "1.7.0"]
 								 [clojure-opennlp "0.3.3"]
 								 [clucy "0.4.0"]
