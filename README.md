@@ -10,7 +10,13 @@ This project also uses the [gg4clj](https://github.com/JonyEpsilon/gg4clj) libra
 
 ### Running the Notebook
 
-First get the data.
+As step one, you need a landing point for the images.
+
+```shell
+mkdir images
+```
+
+Next get the data.
 There's a shell script in `resources/` that handles this for you.
 From project root:
 
