@@ -4,7 +4,7 @@
 ;;; # A Quantitative Look at Violence in Religious Texts
 ;;; 
 ;;; There's been a lot of dicussion about religion and violence in light of recent events, with some claiming that certain religions are inherently more violent than others.
-;;; I thought it would be interesting to examine this assertion by looking at holy texts from six major religions (Buddhism, Christianity, Hinduism, Islam, Judaism, and the Jesus Christ Church of Latter Day Saints) and "measuring" the violence in each.
+;;; I thought it would be interesting to examine this assertion by looking at holy texts from six major religions (Buddhism, Christianity, Hinduism, Islam, Judaism, and the Church of Jesus Christ of Latter-day Saints) and "measuring" the violence in each.
 ;;; 
 ;;; Now obviously there's no way this analysis is a complete treatment of the subject.
 ;;; This subject is incredibly nuanced; an (admittedly incomplete) examination of the texts is one very small facet of the overall discussion.
