@@ -155,7 +155,7 @@
 (def koran
   ;; Read the file, split on lines.
   (->> (str/split (slurp "resources/the-koran.txt") #"\r\n")
-       ;; Take the first 27074 lines (lines prior to tail matter).
+       ;; Take the first 26633 lines (lines prior to tail matter).
        (take 26633)
        ;; Drop the introduction.
        (drop 1034)
